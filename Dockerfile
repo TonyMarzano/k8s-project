@@ -9,3 +9,5 @@ RUN cp -rvf photogenic/* .
 RUN rm -rf photogenic photogenic.zip
 CMD ["/usr/sbin/httpd", "-D", "FOREGROUND"]
 EXPOSE 80 22
+
+#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 key github
